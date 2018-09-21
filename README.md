@@ -7,3 +7,8 @@ on product Table.
 **Important 2:** NDB_No and ndbno columns are STRING not INT (if you don't consider this you will lose rows)
 
 **Important 3:** In this repo is only product table of Instacart dataset and merge tables, the others are in this [link](https://www.instacart.com/datasets/grocery-shopping-2017)
+
+
+## Options
+1. 100: nutrient based on 100gr
+2. relative: nutrient based on portion
